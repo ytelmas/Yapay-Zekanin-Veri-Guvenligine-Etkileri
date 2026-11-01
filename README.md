@@ -1,1 +1,1 @@
-# Yapay-Zekanin-Veri-Guvenligine-Etkileri
+# Yapay Zekanın Veri Güvenliğine Etkileri
