@@ -1,0 +1,1 @@
+# Yapay-Zekanin-Veri-Guvenligine-Etkileri
