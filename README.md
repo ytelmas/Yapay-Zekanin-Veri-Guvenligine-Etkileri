@@ -6,3 +6,7 @@ Yapay zekanın gelişimi ile birlikte veri güvenliği alanında ortaya çıkan 
 
 ## Veri Seti
 [MIT AI Risk Database](https://airisk.mit.edu/risks#AI-Risk-Database)
+
+## Ekip Üyeleri ve Roller
+### Yusuf Taha Elmas [[@ytelmas](https://github.com/ytelmas)]
+
