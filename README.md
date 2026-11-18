@@ -11,5 +11,12 @@ Yapay zekanın gelişimi ile birlikte veri güvenliği alanında ortaya çıkan 
 
 ## Ekip Üyeleri ve Roller
 ### Yusuf Taha Elmas [[@ytelmas](https://github.com/ytelmas)]
+* Literatür taraması ve kaynakların toplanması
+* Diyagramların hazırlanması
+* Github sayfasının düzenlenmesi
 ### Arda Karakütük [[@ArdaKarakutuk](https://github.com/ArdaKarakutuk)]
+* Colab üzerinden notebook hazırlanması ve verilerin görselleştirilmesi
+* Verilerin analiz edilmesi
 ### Enes Doğan [[@nsdogann](https://github.com/nsdogann)]
+* Proje sürecinin yönetilmesi
+* Sonuçların değerlendirilmesi
