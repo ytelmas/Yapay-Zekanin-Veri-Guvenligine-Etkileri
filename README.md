@@ -15,19 +15,18 @@ Bu proje kapsamında yapay zeka ve veri güvenliği arasındaki ilişki incelene
 ## Proje Diyagramları
 * ### [Activity Diyagramı](https://github.com/ytelmas/Yapay-Zekanin-Veri-Guvenligine-Etkileri/blob/main/uml/activity_diagram.png)
 
-  **Açıklama:** 
+  Activity diyagramı, projenin iş akışını göstermektedir. Süreç, araştırma konusunun belirlenmesiyle başlar; ardından literatür taraması yapılır, veriler analiz edilir ve yapay zekanın olumlu ve olumsuz etkileri değerlendirilir. Analizler Google Colab üzerinde uygulanır, gerçek örneklerle desteklenir ve süreç proje raporunun yazılmasıyla sona erer.
 
 * ### [Class Diyagramı](https://github.com/ytelmas/Yapay-Zekanin-Veri-Guvenligine-Etkileri/blob/main/uml/class_diagram.png)
 
-  **Açıklama:** 
+  Bu class diyagramı, yapay zekânın güvenlik üzerindeki olumlu ve olumsuz etkilerini incelemek ve değerlendirmek amacıyla oluşturulmuştur. Yapay zekâ, güvenlik etkilerini analiz ederek bunları olumlu ve olumsuz olarak sınıflandırır. Olumsuz etkiler için risk seviyeleri belirlenirken, her iki etki türü de gerçek hayattan örneklerle desteklenerek daha kapsamlı şekilde değerlendirilir. 
 
 * ### [Görevler Use Case Diyagramı](https://github.com/ytelmas/Yapay-Zekanin-Veri-Guvenligine-Etkileri/blob/main/uml/gorevler_usecase-diagram.png)
 
-  **Açıklama:** 
+  Ekip üyelerinin görev paylaşımları use case diyagramı ile açıklanmıştır.
 
 * ### [Kullanıcı Use Case Diyagramı](https://github.com/ytelmas/Yapay-Zekanin-Veri-Guvenligine-Etkileri/blob/main/uml/Kullan%C4%B1c%C4%B1_use_case_diagram.png)
-
-  **Açıklama:**
+  Bu diyagramın amacı; kullanıcının sistemle olan etkileşimini ve proje konusunu hangi bilgi kaynakları üzerinden kavrayacağını bütüncül bir çerçevede göstermektir. Kullanıcının dokümantasyon, istatistiksel veriler, yapay zekânın kullanım amaçları ve gerçek hayat örnekleri aracılığıyla yapay zekanın veri güvenliğinine olumlu ve olumsuz etkilerini değerlendirmesi amaçlanmıştır.
 
 ## Literatür
 ### **Makale bağlantısı:** [Yapay Zekâ: Alt Dalları ve Uygulama Alanları](http://aksarayiibd.aksaray.edu.tr/tr/pub/article/1574207)
