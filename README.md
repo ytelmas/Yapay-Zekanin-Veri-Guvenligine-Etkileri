@@ -4,6 +4,9 @@
 
 Yapay zekanın gelişimi ile birlikte veri güvenliği alanında ortaya çıkan olumlu ve olumsuz durumların istatistikler ve gerçek hayattan örneklerle değerlendirilmesi.
 
+## Projenin Kapsamı
+Bu proje kapsamında yapay zeka ve veri güvenliği arasındaki ilişki incelenecektir. Araştırmada MIT AI Risk Initiative, OWASP ve benzeri güvenilir kaynaklardan yararlanılacaktır. Yapay zeka kaynaklı güvenlik olayları türlerine göre sınıflandırılacaktır. Elde edilen veriler tablolar ve grafikler aracılığıyla analiz edilerek yapay zekanın veri güvenliği üzerindeki etkileri ortaya konulacaktır.
+
 ## Veri Seti
 [MIT AI Risk Database](https://airisk.mit.edu/risks#AI-Risk-Database)
 
