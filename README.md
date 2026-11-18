@@ -17,6 +17,8 @@ Yapay zekanın gelişimi ile birlikte veri güvenliği alanında ortaya çıkan 
 ### Arda Karakütük [[@ArdaKarakutuk](https://github.com/ArdaKarakutuk)]
 * Colab üzerinden notebook hazırlanması ve verilerin görselleştirilmesi
 * Verilerin analiz edilmesi
+* Proje raporunun hazırlanması
 ### Enes Doğan [[@nsdogann](https://github.com/nsdogann)]
 * Proje sürecinin yönetilmesi
 * Sonuçların değerlendirilmesi
+* Github sayfasının düzenlenmesi
