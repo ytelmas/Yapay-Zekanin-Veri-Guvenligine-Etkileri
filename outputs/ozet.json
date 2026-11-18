@@ -1,0 +1,22 @@
+[
+  {
+    "metrik":"Gençlerde (16-24 yaş) Eğitim amaçlı kullanım oranı (%)",
+    "deger":64.22
+  },
+  {
+    "metrik":"Özel amaçlı en yüksek kullanım oranı (%)",
+    "deger":87.46
+  },
+  {
+    "metrik":"Gençlerde (16-24 yaş) iş amaçlı kullanım oranı (%)",
+    "deger":25.51
+  },
+  {
+    "metrik":"Gençlerde (16-24 yaş) özel amaçlı kullanım oranı (%)",
+    "deger":70.6
+  },
+  {
+    "metrik":"Gençlerde (16-24 yaş) üç amacın ortalama kullanım oranı (%)",
+    "deger":53.44
+  }
+]
