@@ -6,6 +6,7 @@ Yapay zekanın gelişimi ile birlikte veri güvenliği alanında ortaya çıkan 
 
 ## Veri Seti
 [MIT AI Risk Database](https://airisk.mit.edu/risks#AI-Risk-Database)
+
 [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/isoc_ai_iaiu__custom_20601341/default/table)
 
 ## Ekip Üyeleri ve Roller
